@@ -1,3 +1,9 @@
+# v1.0.1 - 20221122
+
+- [rs-06] Implement remove NAL content on sample file
+
+[PR#9] (https://github.com/rs-tungnx/01-git-practice-merge/pull/9)
+
 # v1.0.0 - 20221122
 
 - [rs-04] Implement remove EST content to sample file
